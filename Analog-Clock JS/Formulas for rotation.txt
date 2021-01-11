@@ -1,0 +1,22 @@
+12hr->360*
+1hr->360/12=>30* 
+
+60 min=>30*
+1 min=>1/2*
+m->m/2 rotation 
+
+60 min=>360*
+1 min=>6*
+m min->6m*
+
+1) For hour hand:-
+=(30h+m/2)
+
+2) For Minutes hand:-
+=(m minutes ->6m*)
+
+3) For second hand:-
+=60 seconds->360*
+1sec->6*
+sec->6s*
+
